@@ -2,6 +2,8 @@
 // https://www.spoj.com/problems/ONEZERO/
 // Good Question 
 // Also on Interviewbit playlist, solved with different approach
+// Interviewbit Link : https://github.com/Vishwam36/InterviewBit/blob/main/Graph%20Data%20Structure%20%26%20Algorithms/Smallest%20Multiple%20With%200%20and%201.cpp
+// Ref : https://www.youtube.com/watch?v=sdTubUR99OA
 
 #include <bits/stdc++.h>
 using namespace std;
